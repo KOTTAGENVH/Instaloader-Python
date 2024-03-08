@@ -1,6 +1,10 @@
 # Instaloader-Python
 
->>Initializatio
+>>Initialization
+>
+>>
 >pip install instaloader
+>>
 >Add a username
+>>
 >Run the script
